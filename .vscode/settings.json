@@ -1,0 +1,6 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+    // settings agregados para fixear el error que daba en la dirección package.json
+  "json.schemas": [],
+  "json.validate.enable": false
+}
